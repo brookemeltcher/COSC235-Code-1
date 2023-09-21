@@ -6,5 +6,12 @@ while word != 'quit':
   print(count)
   word = input()
 
+word = input()
+while word != 'quit':
+  count += 1
+  print(count)
+  word = input()
+
+
 #morecomments
   
